@@ -15,6 +15,7 @@ function add1() {
 
     document.getElementById('res').innerText=num1+num2;
     console.log(num1+num2);
+    
 }
 
 function min() {
@@ -59,6 +60,7 @@ function vvod(a) {
     ww=ww+a;
     document.getElementById('result1').innerText=ww;
     console.log(ww);
+    document.getElementById('ac').innerText="c";
 
 }
 
@@ -89,7 +91,8 @@ function eqe() {
 function cc1() {
 
 
-    if (ww==""){ww2=""; vvv=0;}
+    document.getElementById('ac').innerText="ac";
+    if (ww==""){ww2=""; vvv=0;  }
     ww="";
     document.getElementById('result1').innerText=ww;
 }
