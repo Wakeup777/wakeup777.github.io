@@ -13,6 +13,7 @@ h1 {
 
 button{
 
+    touch-action: manipulation;
     background-color: #4CAF50; /* Green */
     border: 1px solid #4CAF50;;
     color: white;
