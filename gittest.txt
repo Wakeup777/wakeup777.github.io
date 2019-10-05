@@ -1,2 +1,6 @@
 this is a test message
+<<<<<<< HEAD
 dddd
+=======
+add new line
+>>>>>>> 13482729f109421e2d0cf77db35ea93e5d414b06
